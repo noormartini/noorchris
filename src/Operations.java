@@ -7,7 +7,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class operations {
+public class Operations {
 
 	String file = "Text.txt";
 	Scanner sc = new Scanner(System.in);
